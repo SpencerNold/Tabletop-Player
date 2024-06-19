@@ -1,0 +1,13 @@
+build/
+
+.DS_Store
+
+.vscode
+
+configure.sh
+build.sh
+run.sh
+
+configure.bat
+build.bat
+run.bat
